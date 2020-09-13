@@ -9,23 +9,19 @@
 
 ## Nom
 
-Skywalker
+Edinga
 
 ## Prénom
 
-Luke
+Melissa
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+Je m'appelle EDINGA Melissa
+J'aime faire la touriste dès que possible
+Je suis une fan de fitness et d'athlétisme
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
+Mon entourage me trouve caractérielle mais calme, ce qui peut être un atout comme un défaut
 
-J'ai hâte d'apprendre à programmer en JavaScript.
